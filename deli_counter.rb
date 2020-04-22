@@ -21,7 +21,8 @@ end
 name = ["Ada", "Grace", "kent"]
  count = 0
 while count <= katz_deli.length-1
-  puts "Stop hitting yourself #{katz_deli[count]}!"
+  puts "Welcome, #{name} ypu are #{katz_deli[count] in the line}
+  }!"
   count += 1
 end
 
