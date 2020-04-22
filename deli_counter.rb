@@ -18,6 +18,12 @@ def take_a_number(katz_deli, name)
   puts "Welcome, Ada. You are number 1 in line."
 end
 
+name = ["Ada", "Grace", "kent"]
+ count = 0
+while count <= katz_deli.length-1
+  puts "Stop hitting yourself #{katz_deli[count]}!"
+  count += 1
+end
 
 
   
