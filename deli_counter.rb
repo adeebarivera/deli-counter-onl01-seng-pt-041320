@@ -19,6 +19,13 @@ def take_a_number(katz_deli, name)
 end
 
 def now_serving(katz_deli)
+  if 
+   code...
+[elsif conditional [then]
+   code...]...
+[else
+   code...]
+end
   
 end  
   
